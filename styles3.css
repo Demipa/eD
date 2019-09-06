@@ -1,0 +1,17 @@
+body {
+    padding-top: 3rem;
+    background-color: #003f7f;
+    background-image: url("aboutpic2.png");
+    color: #ffffff;
+}
+.abouttext{
+    margin: 50px;
+    text-align: center;
+}
+.boxed{
+    margin:25px;
+    border: 2px solid white;
+}
+.search{
+    padding-left: 250px;
+}
